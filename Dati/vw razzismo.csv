@@ -1,0 +1,16 @@
+id_integrazione;anno;id_regione;nome_regione;macroarea;indice_ghettizzazione;tasso_scolarizzazione_perc;tasso_disoccupazione_immigrati;episodi_razzismo_segnalati;id_crimine;tasso_criminalita_generale;tasso_reati_immigrati;perc_reati_marginalizzazione
+1;2022;1;Lombardia;Nord-Ovest;24,26;68,01;18,87;67;1;4719,27;5291,72;62,13
+6;2023;1;Lombardia;Nord-Ovest;20,13;92,43;17,42;45;6;3570,5;3929,87;80,9
+11;2024;1;Lombardia;Nord-Ovest;52,26;64,64;12,19;131;11;3137,58;3957,43;67,33
+2;2022;2;Lazio;Centro;63,4;80,17;10,92;206;2;3945,95;5196,82;72,21
+7;2023;2;Lazio;Centro;29,29;93,9;14,95;61;7;4084,39;4682,55;82,44
+12;2024;2;Lazio;Centro;56,7;82,89;8,09;197;12;4634,21;5948,01;68,98
+3;2022;3;Campania;Sud;48,02;83,57;19,81;142;3;3196,84;3964,4;72,08
+8;2023;3;Campania;Sud;29,45;62,8;10,23;100;8;4190,07;4807,06;80,26
+13;2024;3;Campania;Sud;73,38;65,44;11,38;219;13;3421,26;4676,52;70,29
+4;2022;4;Emilia Romagna;Nord-Est;52,18;66,42;13,55;92;4;4748,97;5987,98;62,26
+9;2023;4;Emilia Romagna;Nord-Est;54,74;62,87;15,89;86;9;4130,45;5260,95;69,49
+14;2024;4;Emilia Romagna;Nord-Est;74,32;63,23;13,08;237;14;3553,36;4873,79;60,11
+5;2022;5;Sicilia;Isole;70,16;92,42;18,18;241;5;3332,62;4501,7;74,57
+10;2023;5;Sicilia;Isole;43,75;70,5;11,79;124;10;4503,73;5488,92;62,18
+15;2024;5;Sicilia;Isole;53,1;60,34;8,9;125;15;4766,21;6031,64;87,12

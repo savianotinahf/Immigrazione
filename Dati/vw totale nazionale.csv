@@ -1,0 +1,13 @@
+anno;nome_paese;regione_mondo;continente;sesso_desc;num_migranti;tasso_occupazione_perc;val_aggiunto_mln;lavoratori_attivi;stipendio_medio_annuo;contributi_versati_mln;pensionati;perc_impiego_domestico
+2024;Peru;South America;South America;Femmina;9174;64,5;4800;95000;16100;510;14000;45
+2024;Bangladesh;Southern Asia;Asia;Femmina;4138;63,2;5200;115000;15500;590;12000;2
+2024;Egypt;Northern Africa;Africa;Femmina;5426;59,3;6500;120000;16900;680;15000;3,5
+2024;India;Southern Asia;Asia;Femmina;5898;61;7100;145000;18200;850;18000;5
+2024;Albania;Southern Europe;Europe;Femmina;13098;60,1;15000;420000;17200;2300;55000;15,2
+2024;Romania;Eastern Europe;Europe;Femmina;10843;62,5;34000;850000;16500;4600;120000;28,5
+2024;Peru;South America;South America;Maschio;7382;64,5;4800;95000;16100;510;14000;45
+2024;Bangladesh;Southern Asia;Asia;Maschio;26617;63,2;5200;115000;15500;590;12000;2
+2024;Egypt;Northern Africa;Africa;Maschio;15758;59,3;6500;120000;16900;680;15000;3,5
+2024;India;Southern Asia;Asia;Maschio;7990;61;7100;145000;18200;850;18000;5
+2024;Albania;Southern Europe;Europe;Maschio;14708;60,1;15000;420000;17200;2300;55000;15,2
+2024;Romania;Eastern Europe;Europe;Maschio;9927;62,5;34000;850000;16500;4600;120000;28,5
